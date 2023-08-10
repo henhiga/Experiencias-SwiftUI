@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Batman-The-Dark-Knight-Universe-Frank-Miller-Reading-Order-705x470.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
